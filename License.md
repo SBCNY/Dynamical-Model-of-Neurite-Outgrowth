@@ -1,4 +1,4 @@
-The MATLAB code was written by Arjun Yadaw and Jens Hansen, both working for the Iyengarlab at Icahn School of Medicine at Mount Sinai, New York. It is made available under the Apache 2.0 license.<br>
+The MATLAB code was written by Arjun Singh Yadaw and Jens Hansen, both working for the Iyengarlab at Icahn School of Medicine at Mount Sinai, New York. It is made available under the Apache 2.0 license.<br>
 <br>
 Please acknoledge our work by citing our manuscript:<br>
 <br>
